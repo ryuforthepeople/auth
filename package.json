@@ -1,0 +1,14 @@
+{
+  "name": "auth",
+  "private": true,
+  "scripts": {
+    "build": "turbo build",
+    "clean": "turbo clean",
+    "typecheck": "turbo typecheck"
+  },
+  "packageManager": "pnpm@10.28.2",
+  "devDependencies": {
+    "turbo": "^2.4.0",
+    "typescript": "^5.7.0"
+  }
+}
