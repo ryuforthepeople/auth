@@ -1,5 +1,5 @@
 {
-  "name": "@for-the-people/auth-api",
+  "name": "@for-the-people-initiative/auth-api",
   "version": "0.1.0",
   "type": "module",
   "main": "./dist/index.cjs",
@@ -18,7 +18,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@for-the-people/auth-core": "workspace:*",
+    "@for-the-people-initiative/auth-core": "workspace:*",
     "hono": "^4.0.0"
   },
   "devDependencies": {

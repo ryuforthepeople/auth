@@ -1,5 +1,5 @@
 {
-  "name": "@for-the-people/auth",
+  "name": "@for-the-people-initiative/auth",
   "scripts": {
     "build": "turbo build",
     "clean": "turbo clean",
