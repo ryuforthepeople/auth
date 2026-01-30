@@ -1,6 +1,5 @@
 {
-  "name": "auth",
-  "private": true,
+  "name": "@for-the-people/auth",
   "scripts": {
     "build": "turbo build",
     "clean": "turbo clean",
@@ -10,5 +9,6 @@
   "devDependencies": {
     "turbo": "^2.4.0",
     "typescript": "^5.7.0"
-  }
+  },
+  "version": "0.1.0"
 }
